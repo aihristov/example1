@@ -1,2 +1,2 @@
 import numpy
-print('hello1')
+print('hello2')
